@@ -1,0 +1,789 @@
+.app1 {
+  margin: 0 auto;
+  margin-bottom: 10px;
+  width: 950px;
+}
+.app1 .swiper-button-prev {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 33px;
+  left: 183px;
+  font-weight: 900;
+  color: #000;
+}
+.app1 .swiper-button-next {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 33px;
+  left: 200px;
+  font-weight: 900;
+  color: #000;
+}
+.app1 .xn_content {
+  width: 104px;
+  height: 115px;
+  cursor: pointer;
+  position: fixed;
+  right: 210px;
+}
+.app1 .xn_content .xn_content-two {
+  width: 104px;
+  height: 115px;
+  background-color: inherit;
+}
+.app1 .xn_content .xn_content-two .xn_us {
+  width: 104px;
+  height: 115px;
+  margin: 0;
+  background: none;
+  position: relative;
+}
+.app1 .sidebar {
+  border: 2px solid #ddd;
+  background: #fff;
+  width: 230px;
+  height: 225px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+.app1 .sidebar h3 {
+  font-family: "Microsoft YaHei";
+  height: 34px;
+  line-height: 34px;
+  padding-left: 10px;
+  color: #333;
+  font-size: 15px;
+  border-bottom: 1px solid #efefef;
+  margin: 0 5px;
+  font-weight: bold;
+}
+.app1 .sidebar ul {
+  line-height: 30px;
+  position: relative;
+}
+.app1 .sidebar li {
+  background: url('../img/dailian.png') no-repeat 200px 5px;
+  height: 30px;
+  position: relative;
+  vertical-align: bottom;
+  border-bottom: 1px solid #efefef;
+}
+.app1 .sidebar li span {
+  display: block;
+  line-height: 26px;
+  height: 26px;
+  border: 2px solid #fff;
+  margin: 0 10px;
+  padding-bottom: 1px;
+  left: -2px;
+  overflow: hidden;
+}
+.app1 .sidebar li span img {
+  margin-right: 5px;
+}
+.app1 .sidebar li a {
+  color: #666;
+}
+.app1 .sidebar li .a1:hover {
+  color: #faa426;
+  cursor: pointer;
+}
+.app1 .sidebar p {
+  line-height: 36px;
+  padding-left: 10px;
+}
+.app1 .sidebar p a {
+  color: blue;
+}
+.app1 .slider {
+  background: white;
+  width: 470px;
+  height: 225px;
+  position: relative;
+  margin-left: 10px;
+}
+.app1 .slider img {
+  width: 100%;
+  height: 225px;
+}
+.app1 .wantdl {
+  width: 228px;
+  height: auto;
+  background-color: #ebf9ff;
+  border: 1px solid #39c2ff;
+  position: relative;
+  margin-bottom: 10px;
+  float: left;
+  padding-bottom: 10px;
+  margin-left: 10px;
+}
+.app1 .wantdl .stonc {
+  text-align: center;
+  margin: 20px 0px 10px 0px;
+}
+.app1 .wantdl .quick-buy {
+  font-size: 12px;
+  color: #ff6600;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 35px;
+}
+.app1 .wantdl .p1 {
+  margin-right: 20px;
+}
+.app1 .wantdl .p2 {
+  margin-right: 30px;
+}
+.app1 .wantdl ul {
+  width: 150px;
+  margin-bottom: 10px;
+}
+.app1 .wantdl ul li {
+  width: 100%;
+  height: 100%;
+}
+.app1 .wantdl ul .el-submenu__title {
+  width: 150px;
+  height: 30px;
+  line-height: 30px;
+}
+.app1 .wantdl ul .el-submenu__icon-arrow {
+  margin-left: 39px;
+}
+.app1 .wantdl .dl_fr {
+  margin-left: 25px;
+  font-size: 12px;
+  margin-top: 10px;
+  float: left;
+  width: 100%;
+}
+.app1 .wantdl .dl_fr .price_ul {
+  color: #ff7b00;
+  margin: 0px 5px 0px 5px;
+  font-weight: bold;
+  font-style: normal;
+}
+.app1 .wantdl .goto_dl {
+  background: url('../img/goyo-new\ \(1\).png') center no-repeat;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  background-color: #3c84e8;
+  background-position-x: 50px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 11px;
+  border-radius: 2px;
+  margin-top: 25px;
+  padding-left: 30px;
+  text-align: center;
+}
+.app1 .tuan {
+  border: 1px solid #ddd;
+  height: 253px;
+  width: 228px;
+  position: relative;
+  margin-top: -107px;
+  float: left;
+  margin-right: 10px;
+}
+.app1 .tuan .title {
+  padding: 10px;
+  height: 16px;
+}
+.app1 .tuan .title h3 {
+  font-family: "Microsoft YaHei";
+  font-weight: bolder;
+  color: #333;
+  font-size: 15px;
+  float: left;
+}
+.app1 .tuan .title span {
+  display: block;
+  float: right;
+}
+.app1 .tuan .title span a {
+  display: block;
+  width: 17px;
+  height: 15px;
+  float: left;
+  margin-left: 5px;
+}
+.app1 .tuan .title span .left-j em {
+  display: block;
+  width: 17px;
+  height: 15px;
+  background: url(../img/dailian.png) no-repeat 0 0;
+  background-position: -1px -43px;
+}
+.app1 .tuan .title span .right-j em {
+  display: block;
+  width: 17px;
+  height: 15px;
+  background: url(../img/dailian.png) no-repeat 0 0;
+  background-position: -22px -43px;
+}
+.app1 .tuan .tuan-wrap {
+  height: 217px;
+  position: relative;
+  width: 228px;
+  overflow: hidden;
+}
+.app1 .tuan .tuan-wrap .tuan-trund {
+  height: 217px;
+  overflow: hidden;
+}
+.app1 .tuan .tuan-wrap .tuan-trund .tuan-detail {
+  float: left;
+  width: 228px;
+  height: 217px;
+  overflow: hidden;
+}
+.app1 .tuan .tuan-wrap .tuan-trund .tuan-detail dt {
+  line-height: 18px;
+  height: 130px;
+  overflow: hidden;
+}
+.app1 .tuan .tuan-wrap .tuan-trund .tuan-detail dt a {
+  color: #666;
+}
+.app1 .tuan .tuan-wrap .tuan-trund .tuan-detail dt a:hover {
+  color: #ff6600;
+}
+.app1 .tuan .tuan-wrap .tuan-trund .tuan-detail dt .tuan-img {
+  display: block;
+  width: 116px;
+  height: 82px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.app1 .tuan .tuan-wrap .tuan-trund .tuan-detail dt .tuan-img img {
+  display: block;
+  width: 112px;
+  height: 78px;
+  padding: 1px;
+  border: 1px solid #eaeaea;
+}
+.app1 .tuan .tuan-wrap .tuan-trund .tuan-detail dd {
+  line-height: 26px;
+  display: block;
+  height: 26px;
+  overflow: hidden;
+  margin-left: 10px;
+}
+.app1 .tuan .tuan-wrap .tuan-trund .tuan-detail dd span {
+  color: #999;
+}
+.app1 .tuan .tuan-wrap .tuan-trund .tuan-detail dd em {
+  color: #f60;
+  padding-right: 5px;
+  font-weight: normal;
+  font-style: normal;
+}
+.app1 .tuan .tuan-wrap .tuan-trund .tuan-detail dd strong {
+  font-weight: 700;
+  color: #f60;
+  font-size: 18px;
+  font-family: arial;
+}
+.app1 .dl-room {
+  width: 468px;
+  border: 1px solid #ddd;
+  float: left;
+  margin-bottom: 10px;
+  margin-top: -104px;
+}
+.app1 .dl-room .title {
+  padding: 10px 0;
+  border-bottom: 1px solid #eaeaea;
+  width: 470px;
+  overflow: hidden;
+}
+.app1 .dl-room .title h3 {
+  margin-left: 12px;
+  font-family: "Microsoft YaHei";
+  font-size: 15px;
+  color: #333;
+  float: left;
+}
+.app1 .dl-room .title .finalprice {
+  margin-right: 12px;
+  float: right;
+  color: #000;
+  font-weight: 100;
+}
+.app1 .dl-room .dealmoney {
+  overflow: hidden;
+  width: 100%;
+  height: 212px;
+}
+.app1 .dl-room .dealmoney li {
+  width: 100%;
+  height: 35px;
+  line-height: 35px;
+}
+.app1 .dl-room .dealmoney li a {
+  margin-left: 12px;
+  display: inline-block;
+  width: 80%;
+  height: 35px;
+  color: #333;
+  overflow: hidden;
+}
+.app1 .dl-room .dealmoney li em {
+  float: right;
+  margin-left: 21px;
+  color: #ff7e60;
+}
+.app1 .dl-room .dealmoney li a:hover {
+  color: #f60;
+}
+.app1 .recomm {
+  width: 710px;
+  clear: both;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  float: left;
+}
+.app1 .recomm .title {
+  width: 710px;
+  padding: 10px 0;
+  border-bottom: 1px solid #eaeaea;
+  overflow: hidden;
+}
+.app1 .recomm .title h3 {
+  margin-left: 12px;
+  font-size: 18px;
+  color: #333;
+  float: left;
+  font-weight: 900;
+}
+.app1 .recomm .title .re_c_x {
+  float: right;
+  color: #999;
+  font-size: 12px;
+  margin: 3px 5px 0 0;
+  font-weight: bold;
+}
+.app1 .recomm .title .re_c_x:hover {
+  color: #ff6600;
+}
+.app1 .recomm .dl-pal {
+  width: 710px;
+  padding: 20px 0 10px 0;
+  position: relative;
+  height: 210px;
+  overflow: hidden;
+}
+.app1 .recomm .dl-pal .remen_lun {
+  width: 710px;
+  margin: 0 20px;
+  height: 186px;
+  position: relative;
+  overflow: hidden;
+}
+.app1 .recomm .dl-pal ul {
+  width: 642px;
+  float: left;
+  height: 187px;
+  overflow: hidden;
+}
+.app1 .recomm .dl-pal ul li {
+  padding-bottom: 5px;
+  float: left;
+  padding-left: 10px;
+  width: 94px;
+  overflow: hidden;
+  padding: 0 0 5px 16px;
+}
+.app1 .recomm .dl-pal ul li a {
+  display: block;
+  overflow: hidden;
+  text-align: center;
+  color: #666;
+  font-weight: bolder;
+}
+.app1 .recomm .dl-pal ul li a:hover {
+  color: #ff6600;
+}
+.app1 .recomm .dl-pal ul li img {
+  display: block;
+  width: 90px;
+  height: 68px;
+  padding: 1px;
+  border: 1px solid #e8e8e8;
+  margin-bottom: 5px;
+}
+.app1 .title1 {
+  color: #FFAA57;
+  height: 35px;
+  width: 710px;
+  clear: both;
+  margin-bottom: 20px;
+}
+.app1 .title1 h3 {
+  background: url(../img/dailian.png) no-repeat 0 0;
+  font-size: 22px;
+  font-weight: bolder;
+  font-family: "Microsoft YaHei";
+  float: left;
+  width: 160px;
+  height: 30px;
+  text-indent: -99999px;
+  background-position: -30px -380px;
+}
+.app1 .title1 span {
+  float: right;
+  padding-top: 15px;
+}
+.app1 .el-tabs__header {
+  padding: 0;
+  position: relative;
+  margin: 0 0 15px;
+  width: 710px;
+}
+.app1 .recom-tab-con {
+  width: 710px;
+  height: 213px;
+}
+.app1 .recom-tab-con {
+  margin: 10px 0 0 0;
+  overflow: hidden;
+}
+.app1 .recom-tab-con dl {
+  width: 320px;
+  margin-bottom: 20px;
+}
+.app1 .recom-tab-con dl dt {
+  height: 17px;
+  border-bottom: 1px solid #efefef;
+}
+.app1 .recom-tab-con dl dt span {
+  float: left;
+  color: #999;
+}
+.app1 .recom-tab-con dl dt em {
+  color: #999;
+  font-weight: normal;
+  font-style: normal;
+  float: right;
+}
+.app1 .recom-tab-con dl dd {
+  font-size: 14px;
+  border-bottom: 1px dotted #efefef;
+  line-height: 35px;
+  overflow: hidden;
+  width: 320px;
+  height: 35px;
+}
+.app1 .recom-tab-con dl dd span {
+  float: left;
+}
+.app1 .recom-tab-con dl dd span a {
+  color: #666;
+}
+.app1 .recom-tab-con dl dd em {
+  float: right;
+  color: #f60;
+  font-weight: bolder;
+  font-style: normal;
+}
+.app1 .recom-tab-con .fl {
+  float: left;
+}
+.app1 .recom-tab-con .fr {
+  float: right;
+}
+.app1 .vs_type {
+  width: 228px;
+  height: 223px;
+  border: 1px solid #e2e2e2;
+  margin-bottom: 8px;
+  float: right;
+}
+.app1 .vs_type .vs_type1 {
+  height: 110px;
+  border-bottom: 1px solid #e2e2e2;
+  text-align: center;
+}
+.app1 .vs_type .vs_type1 .s1 {
+  width: 204px;
+  height: 40px;
+  display: block;
+  margin: 20px 12px 10px 12px;
+  background: url(../img/dailian_r2_c2.png) no-repeat;
+}
+.app1 .vs_type .vs_type1 .s2 {
+  width: 204px;
+  height: 40px;
+  display: block;
+  margin: 0 12px 20px 12px;
+  background: url(../img/dailian2_r2_c2.png) no-repeat;
+}
+.app1 .vs_type .vs_type2 {
+  height: 54px;
+  padding: 20px;
+}
+.app1 .vs_type .vs_type2 a {
+  display: inline-block;
+  float: left;
+  width: 50%;
+  text-align: center;
+  color: #06c;
+}
+.app1 .vs_type .vs_type2 a:hover {
+  color: #ff7b00;
+}
+.app1 .vs_type .vs_type2 .s3 {
+  width: 27px;
+  height: 32px;
+  display: block;
+  margin: 0 auto 10px;
+  background: url(../img/dailian3_r2_c2.png) no-repeat;
+}
+.app1 .vs_type .vs_type2 .s4 {
+  width: 32px;
+  height: 32px;
+  display: block;
+  margin: 0 auto 10px;
+  background: url(../img/dailian4_r2_c2.png) no-repeat;
+}
+.app1 .rtw {
+  float: right;
+  width: 230px;
+  height: 236px;
+  border: 1px solid #ddd;
+  overflow: hidden;
+}
+.app1 .rtw .el-tabs__nav-scroll {
+  width: 230px;
+}
+.app1 .rtw .el-tabs__nav {
+  width: 230px;
+}
+.app1 .rtw .el-tabs__item {
+  width: 111px;
+}
+.app1 .rtw .right-tab-con {
+  border: 1px solid #ddd;
+  border-top: none;
+  border-bottom: none;
+  display: none;
+}
+.app1 .rtw .right-tab-con ul {
+  padding: 10px 5px 0 5px;
+}
+.app1 .rtw .right-tab-con ul li {
+  position: relative;
+  padding-bottom: 10px;
+}
+.app1 .rtw .right-tab-con ul li span {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  color: #999;
+}
+.app1 .rtw .right-tab-con ul a {
+  color: #666;
+  display: block;
+}
+.app1 .rtw .right-tab-con ul a:hover {
+  color: #ff6600;
+}
+.app1 .rtw .right-tab-con p {
+  display: block;
+  border-bottom: 1px solid #ddd;
+  border-top: none;
+  padding: 0 15px 10px 0;
+  text-align: right;
+}
+.app1 .q-a-con {
+  width: 230px;
+  border: 1px solid #ddd;
+  float: right;
+}
+.app1 .q-a-con .download_dl {
+  background: url(../img/dailian.png) no-repeat scroll -296px -315px;
+  display: block;
+  height: 42px;
+  width: 204px;
+}
+.app1 .q-a-con a {
+  margin: 18px auto;
+}
+.app1 .q-a-con p {
+  width: 175px;
+  margin: 0 auto 20px;
+}
+.app1 .q-a-con p a {
+  margin: 18px auto;
+}
+.app1 .diwei {
+  margin-top: -332px;
+}
+.app1 .diwei .title {
+  width: 210px;
+  margin: 0 auto;
+  margin-bottom: 5px;
+  position: relative;
+  padding: 10px 0;
+  height: 14px;
+}
+.app1 .diwei .title h3 {
+  color: #333;
+  font-weight: bolder;
+  float: left;
+}
+.app1 .diwei .title span {
+  float: right;
+}
+.app1 .diwei .title span a {
+  cursor: pointer;
+  color: #999;
+}
+.app1 .diwei .title span a:hover {
+  color: #ff6600;
+}
+.app1 .diwei dl {
+  margin: 15px 15px 5px 15px;
+  padding-bottom: 5px;
+  border-bottom: 1px dotted #bbb;
+  float: left;
+}
+.app1 .diwei dl dt {
+  height: 22px;
+  line-height: 22px;
+  padding-left: 20px;
+  overflow: hidden;
+  background: url(../img/dailian.png) no-repeat 0 0;
+  background-position: -241px -55px;
+}
+.app1 .diwei dl dt a {
+  color: #666;
+  margin: 18px auto;
+  cursor: pointer;
+}
+.app1 .diwei dl dt a:hover {
+  color: #ff6600;
+}
+.app1 .diwei dl dd {
+  height: 22px;
+  line-height: 22px;
+  padding-left: 20px;
+  overflow: hidden;
+  background: url(../img/dailian.png) no-repeat 0 0;
+  background-position: -241px -76px;
+}
+.app1 .diwei dl dd .q-a-con a {
+  color: #999;
+  margin: 18px auto;
+}
+.app1 .footer {
+  width: 950px;
+  margin: 40px auto 0;
+  padding-bottom: 40px;
+  border-top: 1px solid #e2e2e2;
+}
+.app1 .footer .footer_nav {
+  width: 485px;
+  margin: 37px auto 0;
+  overflow: hidden;
+}
+.app1 .footer .footer_nav li {
+  float: left;
+  color: #ccc;
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+.app1 .footer .footer_nav a:hover {
+  color: #FFAA57;
+}
+.app1 .footer .footer_nav a {
+  color: #999;
+  margin: 0 8px;
+}
+.app1 .footer .copyright {
+  text-align: center;
+  color: #999;
+  padding: 15px 0;
+  font-family: Arial;
+}
+.app1 .footer .copyright a {
+  color: #999;
+  margin-left: 10px;
+}
+.app1 .footer .copyright a:hover {
+  color: #FFAA57;
+}
+.app1 .footer .honor_list {
+  overflow: hidden;
+  margin: 0 auto 15px auto;
+  width: 100%;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+}
+.app1 .footer .honor_list a {
+  color: #999;
+}
+.app1 .footer .honor_list a:hover {
+  color: #FFAA57;
+}
+.app1 .footer .honor_list .item1 {
+  background: url(../img/footer_sprites.png) no-repeat;
+  padding-left: 35px;
+  background-position: -220px -397px;
+}
+.app1 .footer .honor_list li {
+  padding: 0 15px;
+  height: 20px;
+  line-height: 20px;
+  display: inline-block;
+}
+.app1 .footer .honor_list .item4 {
+  background: url(../img/footer_sprites.png) no-repeat;
+  padding-left: 18px;
+  background-position: -234px -344px;
+}
+.app1 .footer .honor_list .item6 {
+  background: url(../img/footer_sprites.png) no-repeat;
+  padding-left: 20px;
+  background-position: -234px -458px;
+}
+.app1 .footer .honor_list .item3 {
+  background: url(../img/footer_sprites.png) no-repeat;
+  padding-left: 20px;
+  background-position: -234px -372px;
+}
+.app1 .footer .honor_list .item7 {
+  background: url(../img/footer_sprites.png) no-repeat;
+  padding-left: 20px;
+  background-position: -234px -488px;
+}
+.app1 .footer .honor_list .item11 {
+  background: url(../img/footer_sprites.png) no-repeat;
+  padding-left: 23px;
+  background-position: 0 -577px;
+}
+.app1 .footer .honor_list .item12 {
+  background: url(../img/footer_sprites.png) no-repeat;
+  padding-left: 49px;
+  background-position: 0 -551px;
+}
+.inner-container {
+  animation: myMove 15s linear infinite;
+  animation-fill-mode: forwards;
+}
+/*文字无缝滚动*/
+@keyframes myMove {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-450px);
+  }
+}
